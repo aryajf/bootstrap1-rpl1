@@ -1,0 +1,19 @@
+.navigation{
+    height: 100vh;
+}
+.navigation ul{
+    list-style: none;
+}
+.navigation ul li{
+    padding: 10px 0;
+}
+.navigation ul li a{
+    text-decoration: none;
+    color: #000;
+}
+.image-table{
+    width: 50px;
+}
+.border-1{
+    border: 1px solid #000;
+}
